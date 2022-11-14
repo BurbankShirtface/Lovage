@@ -54,6 +54,10 @@ a:hover {
 .nav__link:hover:after {
   width: 100%;
 }
+.nav__link:after:visited {
+  text-decoration: none;
+  width: 0;
+}
 
 .nav__item {
   position: relative;
