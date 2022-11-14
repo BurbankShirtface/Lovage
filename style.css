@@ -199,6 +199,9 @@ footer {
   .connect__container {
     margin-top: 50px;
   }
+  .nav__link:hover:after {
+    width: 0;
+  }
 }
 @media (max-width: 580px) {
   .logo {
