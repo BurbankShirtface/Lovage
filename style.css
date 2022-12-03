@@ -219,5 +219,6 @@ footer {
   }
   .nav__item {
     font-size: 0.7em;
+    border-bottom: 1px solid white;
   }
 }
