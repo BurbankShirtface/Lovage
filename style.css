@@ -119,7 +119,7 @@ p {
   flex-direction: column;
 }
 
-.connect__container {
+.connect-with-us {
   /* width: 100%; */
   margin: 30px;
   display: flex;
@@ -127,7 +127,7 @@ p {
   justify-content: center;
   align-items: center;
 }
-.connect__container h2 {
+.connect-with-us h2 {
   margin: 20px;
 }
 
@@ -200,7 +200,7 @@ footer {
   .map-address {
     order: 2;
   }
-  .connect__container {
+  .connect-with-us {
     margin-top: 50px;
   }
   .nav__link:hover:after {
