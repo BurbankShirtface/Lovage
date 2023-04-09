@@ -101,7 +101,7 @@ p {
 }
 
 .nav__items {
-  width: 80%;
+  width: 40%;
   margin: 0 auto;
   height: 50px;
   display: flex;
@@ -220,5 +220,8 @@ footer {
   .nav__item {
     font-size: 0.7em;
     border-bottom: 1px solid white;
+  }
+  .nav__items {
+    width: 80%;
   }
 }
