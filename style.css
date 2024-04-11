@@ -110,6 +110,35 @@ p {
   font-size: 20px;
 }
 
+/***** MENU SECTION *****/
+.menu-section {
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu-title {
+  margin: 1em;
+  text-align: center;
+  width: 65%;
+}
+
+.menu-img {
+  margin: 1em;
+  /* height: 40em; */
+  max-width: 100%;
+  width: 400px;
+}
+
+.divider {
+  width: 80%;
+  height: 2px;
+  background-color: #b4b3a6;
+  margin: 5em 0 1em;
+}
+
 /* CONTACT */
 
 .contact {
@@ -223,5 +252,8 @@ footer {
   }
   .nav__items {
     width: 80%;
+  }
+  .menu-title {
+    width: 90%;
   }
 }
